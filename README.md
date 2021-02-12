@@ -12,9 +12,10 @@ The Forkify recipe project was completed by following the Javascript tutorial pr
 #### Installation
 Forkify requires Node.js to run its dependencies.
 
-#### Install the dependencies and devDependencies and start the server.
+Install the dependencies and devDependencies and start the server.
 
 $ npm install
+
 #### Scripts
 Forkify utilizes Webpack to compile its files
 
